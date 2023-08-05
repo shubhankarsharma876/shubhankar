@@ -2,15 +2,31 @@ import React from "react";
 import ThoughtBubble from "../assets/ThoughtBubble.png";
 import qrcode from "../assets/qrcode.png";
 import delicious from "../assets/delicious.png";
+import pigeon from "../assets/pigeon.png";
+import passwordkeeper from "../assets/passwordkeeper.png"
 
 const Projects = () => {
   const projects = [
+    {
+      img: pigeon,
+      title: "Perfect Pigeon",
+      desc: " Based on React.js, Node.js, express.js,and MongoDB. Just upload and forward the link . ",
+      live: "https://perfectpigeon.vercel.app/",
+      code: "https://github.com/shubhankarsharma876/pigeon",
+    },
+    {
+      img: passwordkeeper,
+      title: "Password Keeper",
+      desc: " Based on React.js,Node.js, express.js,and MySQL. And password stored encryptedly. ",
+      live: "https://github.com/shubhankarsharma876/Password-Manager/",
+      code: "https://github.com/shubhankarsharma876/Password-Manager",
+    },
     {
       img: ThoughtBubble,
       title: "Thought Bubble",
       desc: " Based on React.js and Firebase for authentication and Firestore for handling the posts. ",
       live: "https://blogging-website-azure.vercel.app/",
-      code: "https://github.com/shubhankarsharma876/Password-Manager",
+      code: "https://github.com/shubhankarsharma876/blogging-website",
     },
     {
       img: delicious,
@@ -23,8 +39,8 @@ const Projects = () => {
       img: qrcode,
       title: "QR Code Generator",
       desc: "This is build on HTML, CSS, JavaScript. And is generating QR Code using QR SERVER API",
-      live: "https://qr-code-generator-alive.vercel.app/",
-      code: "https://github.com/Coderamrin/get-inspired",
+      live: "https://yourqrgenerator.vercel.app/",
+      code: "https://github.com/shubhankarsharma876/QR-Code-Generator",
     },
   ];
 
