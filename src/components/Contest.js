@@ -25,7 +25,7 @@ function Contest() {
 
       ];
   return (
-    <section className="bg-secondery text-white px-5 py-32" id="contest">
+    <section className="bg-primary text-white px-5 py-32" id="contest">
         <div className="container px-5 py-10 mx-auto">
         <div className="about-info mb-5">
           <h2 className="text-4xl font-bold mb-5 border-b-[5px] w-[180px] border-indigo-600 pb-2">
