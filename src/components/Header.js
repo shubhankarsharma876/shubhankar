@@ -63,13 +63,16 @@ const Header = () => {
             <a href="/#projects">Projects</a>
           </li>
           <li>
+            <a href="/#experience">Experience</a>
+          </li>
+          <li>
             <a href="/#contest">Platforms</a>
           </li>
           <li>
             <a href="/#contact">Contact</a>
           </li>
           <li>
-            <a  href="https://drive.google.com/file/d/1mRoaHIMrwUgONwlNZ2L3GW6QmwkB4grn/view?usp=sharing"
+            <a  href="https://drive.google.com/file/d/1-GTIKvDqQ7ivRj0yscoZekeX0R8qhodR/view?usp=sharing"
               target="_blank"
               without
               rel="noreferrer">Resume</a>

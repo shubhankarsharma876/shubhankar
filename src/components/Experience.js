@@ -5,9 +5,28 @@ function Experience() {
     <div class="container" id='experience' >
 	
 	<main class="row">
-		
-		
 
+
+		<section class="col">
+			
+			<header class="title">
+				<h2>EXPERIENCE</h2>
+			</header>
+
+			<div class="contents">
+				
+				<div class="box">
+					<h4>11th August -11th September 2023</h4>
+					<h3>Software Developer Intern at <b>Maclogs Private Limited</b></h3>
+					<ul>
+					<li>- Developed a B2B client data platform using React.JS and Java Spring Boot, facilitating data collection and client tracking.</li>
+					<li>- Implemented Test-Driven Development (TDD) in Spring Boot for form validation during new account creation, ensuring data integrity through Postman testing.</li>
+					</ul>
+					
+				</div>
+
+			</div>
+		</section>
 		<section class="col">
 			
 			<header class="title">
@@ -38,28 +57,6 @@ function Experience() {
 					<p><b>Score - 84.6 %</b></p>
 				</div>
 
-
-			</div>
-		</section>
-
-
-		<section class="col">
-			
-			<header class="title">
-				<h2>EXPERIENCE</h2>
-			</header>
-
-			<div class="contents">
-				
-				<div class="box">
-					<h4>11th August -11th September 2023</h4>
-					<h3>Software Developer Intern at <b>Maclogs Private Limited</b></h3>
-					<ul>
-					<li>- Developed a B2B client data platform using React.JS and Java Spring Boot, facilitating data collection and client tracking.</li>
-					<li>- Implemented Test-Driven Development (TDD) in Spring Boot for form validation during new account creation, ensuring data integrity through Postman testing.</li>
-					</ul>
-					
-				</div>
 
 			</div>
 		</section>
