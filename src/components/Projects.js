@@ -4,6 +4,7 @@ import qrcode from "../assets/qrcode.png";
 import delicious from "../assets/delicious.png";
 import pigeon from "../assets/pigeon.png";
 import passwordkeeper from "../assets/passwordkeeper.png"
+import letscollab from "../assets/letscollab.png"
 
 const Projects = () => {
   const projects = [
