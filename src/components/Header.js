@@ -72,7 +72,7 @@ const Header = () => {
             <a href="/#contact">Contact</a>
           </li>
           <li>
-            <a  href="https://drive.google.com/file/d/1-GTIKvDqQ7ivRj0yscoZekeX0R8qhodR/view?usp=sharing"
+            <a  href="https://drive.google.com/file/d/1fAqu-ibDNZHDQnVoCk3ci2nWj8nrCCCk/view?usp=sharing"
               target="_blank"
               without
               rel="noreferrer">Resume</a>
